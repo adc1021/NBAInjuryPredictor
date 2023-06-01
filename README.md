@@ -7,3 +7,4 @@
   + NBA Injury Stats (1951 - 2023) dataset - Logan Lauton
   + `{airball}` R Package - Jose Fernandez 
   + Average Age of NBA Players from 1952-2022 - the Hoops Geek (https://www.thehoopsgeek.com/average-age-nba-players/)
+  + NBA Salaries - Chris Davis (data.world)

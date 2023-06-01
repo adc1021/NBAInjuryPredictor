@@ -5,10 +5,11 @@ Sys.setenv(VROOM_CONNECTION_SIZE = 262144)
 '
 eval(parse(text = buffer))
 
-travel_data <- nba_travel(start_season = 1990,
-                          return_home = 3,
-                          phase = c("RS", "PO"),
-                          flight_speed = 550)
+travel_data_1990 <- nba_travel(start_season = 1970,
+                          end_season = 1970,
+                          phase = c("RS", "PO"))
 
-# Print the data frame
-print(travel_data)
+total_distance <- sum(travel_data_1990$Distance)
+
+
+print(total_distance)

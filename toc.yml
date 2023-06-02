@@ -1,0 +1,20 @@
+- section: Introduction
+  sections:
+    - Notebook Overview: notebook_overview.ipynb
+    - Data Description: data_description.ipynb
+
+- section: Data Preparation
+  sections:
+    - Data Cleaning: data_cleaning.ipynb
+    - Exploratory Data Analysis: exploratory_data_analysis.ipynb
+
+- section: Model Development
+  sections:
+    - Feature Engineering: feature_engineering.ipynb
+    - Model Training: model_training.ipynb
+    - Model Evaluation: model_evaluation.ipynb
+
+- section: Results and Conclusion
+  sections:
+    - Results Summary: results_summary.ipynb
+    - Conclusion and Future Work: conclusion_future_work.ipynb

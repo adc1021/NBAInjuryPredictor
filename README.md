@@ -1,6 +1,8 @@
 # NBAInjuryPredictor
 + Players being sidelined with injuries is a common trend in all sports. Recently, the NBA has had major issues keeping some of it's best players healthy and on the court. In this project, I employ data visualization as well as predictive modelling to try and assess the future total outcomes of injuries in the NBA
 
+__The model can be viewed at the following link: https://adc1021.github.io/NBAInjuryPredictor/__
+
 ## Technologies 
 + Python 
 + R
